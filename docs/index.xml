@@ -24,9 +24,6 @@
 &lt;/ul&gt;
 
 &lt;p&gt;I have some older work in the form of old blog posts and presentations and papers that I will share here, and I will also post about stuff that I am working on going forward. I hope that I can share some useful information for other R users.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;blogdown::new_post(&amp;quot;Post Title&amp;quot;, rmd = FALSE)
-&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
