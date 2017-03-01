@@ -16,7 +16,7 @@ publishDir = "docs"
     url = "https://alishinski.github.io/"
 [[menu.main]]
     name = "About"
-    url = "https://alishinski.github.io/about.html/"
+    url = "https://alishinski.github.io/about.html"
 [params]
     description = "A website built through Hugo and blogdown."
 
