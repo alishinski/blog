@@ -13,10 +13,10 @@ publishDir = "docs"
 
 [[menu.main]]
     name = "Home"
-    url = "https:://alishinski.github.io/"
+    url = "https://alishinski.github.io/"
 [[menu.main]]
     name = "About"
-    url = "https:://alishinski.github.io/about/"
+    url = "https://alishinski.github.io/about/"
 [params]
     description = "A website built through Hugo and blogdown."
 
@@ -24,7 +24,7 @@ publishDir = "docs"
     highlightjsVersion = "9.9.0"
     highlightjsLang = ["r", "yaml"]
     highlightjsTheme = "github"
-
+b
     [params.logo]
     url = "logo.png"
     width = 50
